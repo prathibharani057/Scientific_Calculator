@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".converter"
+    android:background="@color/black_shade_3"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+    <LinearLayout
+        android:id="@+id/Header"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_height="50dp"
+            android:layout_width="50dp"
+            android:onClick="back"
+            android:textColor="#ffa500"
+            android:backgroundTint="@color/black_shade_3"
+            android:layout_marginLeft="2dp"
+            android:text="back"
+            app:srcCompat="@drawable/ic_baseline_arrow_back_ios_24"
+            />
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#ffa500"
+            android:text="Converter"
+            android:backgroundTint="@color/black_shade_3"
+            android:padding="10dp"/>
+    </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/border2"
+            android:padding="20dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+
+                    <ImageView
+
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        app:srcCompat="@drawable/len"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:onClick="length"/>
+                    <Button
+                        android:id="@+id/bt3"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:text="Length"
+                        android:layout_gravity="center"
+                        android:onClick="length"
+                        android:textColor="#ffa500"
+                        android:backgroundTint="@color/black_shade_2"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_marginTop="20dp"
+                        android:layout_width="50dp"
+                        android:layout_height="55dp"
+                        app:srcCompat="@drawable/area"
+                        android:layout_gravity="center"
+                        android:onClick="area"/>
+                    <Button
+                        android:id="@+id/bt5"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:text="Area"
+                        android:layout_gravity="center"
+                        android:onClick="area"
+                        android:textColor="#ffa500"
+                        android:layout_marginTop="13dp"
+                        android:backgroundTint="@color/black_shade_2"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+
+                    <ImageView
+
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        app:srcCompat="@drawable/mass"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:onClick="mass"/>
+                    <Button
+                        android:id="@+id/bt4"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:text="Mass"
+                        android:layout_gravity="center"
+                        android:onClick="mass"
+                        android:textColor="#ffa500"
+                        android:backgroundTint="@color/black_shade_2"/>
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:layout_marginTop="60dp">
+
+                <LinearLayout
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+
+                    <ImageView
+
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        app:srcCompat="@drawable/temp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:onClick="temp"/>
+                    <Button
+                        android:id="@+id/bt2"
+                        android:layout_width="145dp"
+                        android:layout_height="wrap_content"
+                        android:text="Temperature"
+                        android:layout_gravity="center"
+                        android:onClick="temp"
+                        android:textColor="#ffa500"
+                        android:backgroundTint="@color/black_shade_2"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+
+                    <ImageView
+
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        app:srcCompat="@drawable/time"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:onClick="time"/>
+                    <Button
+                        android:id="@+id/bt6"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:text="Time"
+                        android:layout_gravity="center"
+                        android:onClick="time"
+                        android:textColor="#ffa500"
+                        android:backgroundTint="@color/black_shade_2"/>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+
+                    <ImageView
+
+                        android:layout_width="90dp"
+                        android:layout_height="80dp"
+                        app:srcCompat="@drawable/num"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="11dp"
+                        android:onClick="num"/>
+                    <Button
+                        android:id="@+id/bt7"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:text="Number"
+                        android:layout_gravity="center"
+                        android:onClick="num"
+                        android:textColor="#ffa500"
+                        android:backgroundTint="@color/black_shade_2"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+</LinearLayout>
+
+</LinearLayout>
