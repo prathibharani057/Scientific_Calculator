@@ -48,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, use, and modify this project according to your needs. If you have any questions or need assistance, you can contact us.
 
-**Authors:** PRATHIBHARANI
+**Author :** PRATHIBHARANI
 
 Enjoy the Scientific Calculator and Unit Converter app!
