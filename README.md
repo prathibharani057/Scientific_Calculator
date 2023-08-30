@@ -3,7 +3,8 @@
 
 This repository contains an Android Studio project for a Scientific Calculator and Unit Converter app. This app is designed to provide users with a versatile tool that combines both a scientific calculator and a unit converter, offering a wide range of mathematical and conversion functionalities in one place.
 
-![pic](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/c19e159d-c2ae-427b-af13-4725b7e02e64)
+![pic](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/95ad409e-9f1e-472a-b068-57be51bf2946)
+
 
 ## Features
 
@@ -17,9 +18,11 @@ This repository contains an Android Studio project for a Scientific Calculator a
 
 ## Screenshots
 
-![Picture1](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/f1c3b91d-c0d6-4263-8d79-5a61833f6c62)
-![Picture2](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/d042b275-c002-4fb9-9577-f71b2150fe20)
-![Picture3](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/1b878019-3868-452f-ac40-cd9ba1a419ac)
+
+![Picture1](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/cca4497d-816a-4974-8e48-6111f89d652f)
+![Picture2](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/281d403b-671a-4ff7-b646-8890f7f055cf)
+![Picture3](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/2721d4f2-b7d8-44cb-9746-178f3ad1b9b4)
+![Picture4](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/a9d489fc-e73a-4cd3-9fe7-bb7035b285d7)
 
 ## Installation
 
