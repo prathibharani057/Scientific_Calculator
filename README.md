@@ -1,6 +1,6 @@
 # Scientific Calculator and Unit Converter Android Studio Project
 
-![App Demo](demo.gif)
+![App Demo](pic.png)
 
 This repository contains an Android Studio project for a Scientific Calculator and Unit Converter app. This app is designed to provide users with a versatile tool that combines both a scientific calculator and a unit converter, offering a wide range of mathematical and conversion functionalities in one place.
 
