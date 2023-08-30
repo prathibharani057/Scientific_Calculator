@@ -50,6 +50,4 @@ Feel free to explore, use, and modify this project according to your needs. If y
 
 **Authors:** PRATHIBHARANI
 
-**Contact:** prathibharani275@gmail.com
-
 Enjoy the Scientific Calculator and Unit Converter app!
