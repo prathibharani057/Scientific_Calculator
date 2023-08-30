@@ -1,9 +1,8 @@
 # Scientific Calculator and Unit Converter Android Studio Project
 
 
-This repository contains an Android Studio project for a Scientific Calculator and Unit Converter app. This app is designed to provide users with a versatile tool that combines both a scientific calculator and a unit converter, offering a wide range of mathematical and conversion functionalities in one place.
-
-![pic](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/95ad409e-9f1e-472a-b068-57be51bf2946)
+This repository contains an Android Studio project for a Scientific Calculator and Unit Converter app. This app is designed to provide users with a versatile tool that combines both a scientific calculator and a unit converter, offering a wide range of mathematical and conversion functionalities in one place.<br><br><pre>
+                                                                ![pic](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/95ad409e-9f1e-472a-b068-57be51bf2946)</pre>
 
 
 ## Features
@@ -17,12 +16,9 @@ This repository contains an Android Studio project for a Scientific Calculator a
 - **User-Friendly Interface:** The app features an intuitive and user-friendly interface that allows users to easily input values, select functions, view results.
 
 ## Screenshots
-
-
-![Picture1](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/cca4497d-816a-4974-8e48-6111f89d652f)
-![Picture2](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/281d403b-671a-4ff7-b646-8890f7f055cf)
-![Picture3](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/2721d4f2-b7d8-44cb-9746-178f3ad1b9b4)
-![Picture4](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/a9d489fc-e73a-4cd3-9fe7-bb7035b285d7)
+<br><pre>
+![Picture1](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/cca4497d-816a-4974-8e48-6111f89d652f)      ![Picture2](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/281d403b-671a-4ff7-b646-8890f7f055cf) </pre><br><br><br><pre>
+![Picture3](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/2721d4f2-b7d8-44cb-9746-178f3ad1b9b4)      ![Picture4](https://github.com/prathibharani057/Scientific_Calculator/assets/118717617/a9d489fc-e73a-4cd3-9fe7-bb7035b285d7)</pre>
 
 ## Installation
 
